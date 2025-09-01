@@ -1,4 +1,0 @@
-[gd_resource type="BoxOccluder3D" load_steps=0 format=3 uid="uid://b7fm3arld61l4"]
-
-[resource]
-size = Vector3(56, 1.05, 55)
